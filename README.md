@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 this apps is deployed in PAAS(Platform as as service) 
 ## Contributor
 ## Integrity
+### Copyright
+2014 Git. Training.
