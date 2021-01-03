@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 this apps is deployed in PAAS(Platform as as service) 
 ## Contributor
 please fork this repository and then issue pull request for review.
+please add berhanu as contributer
 ## Integrity
 ### Copyright
 2014 Git. Training.
